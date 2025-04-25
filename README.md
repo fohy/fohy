@@ -59,13 +59,4 @@
 📧 **Email:** [sashkaloel@yandex.ru](mailto:sashkaloel@yandex.ru)  
 ✈️ **Telegram:** [@ineeeeedhelp](https://t.me/ineeeeedhelp)  
 
----
-
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fohy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fohy&layout=compact&theme=radical)  
-
----
-
 🌟 **Thanks for visiting my profile! Feel free to connect or collaborate!** 🌟

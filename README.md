@@ -1,6 +1,6 @@
 # Hello, I'm fohy! 👋
 
-🌍 **19 y.o. Cyber Security Student at [UrFU](https://urfu.ru/)**  
+🌍 **20 y.o. Cyber Security Student at [UrFU](https://urfu.ru/)**  
 💻 **Tech Enthusiast | Full-Stack Developer | Lifelong Learner**  
 🍺 **Fun Fact:** I love unfiltered beer! 🍻  
 
